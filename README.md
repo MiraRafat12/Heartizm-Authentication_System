@@ -19,7 +19,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository</p>
 
 ```
-git clone "https://github.com/Stevenwaheed/Heartizm-Authentication.git"
+git clone "https://github.com/MiraRafat12/Heartizm-Authentication_System.git"
 ```
 
 <p>2. Install npm modules</p>
